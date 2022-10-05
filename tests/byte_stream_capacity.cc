@@ -21,6 +21,7 @@ int main() {
             test.execute(RemainingCapacity{0});
             test.execute(BufferSize{2});
             test.execute(Peek{"ca"});
+            test.execute(RemainingCapacity{0});
 
             test.execute(Write{"t"}.with_bytes_written(0));
 

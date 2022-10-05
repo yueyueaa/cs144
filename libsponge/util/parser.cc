@@ -1,4 +1,5 @@
 #include "parser.hh"
+#pragma GCC diagnostic ignored "-Wshift-count-overflow"
 
 using namespace std;
 
