@@ -1,0 +1,5 @@
+[2022-10-18 17:38:09.537] [remoteagent] [info] Extension host agent started.
+[2022-10-18 17:38:09.791] [remoteagent] [error] [127.0.0.1][d9ffbff9][ManagementConnection] Unknown reconnection token (never seen).
+[2022-10-18 17:38:09.877] [remoteagent] [error] [127.0.0.1][de98b4a0][ExtensionHostConnection] Unknown reconnection token (never seen).
+[2022-10-18 17:38:21.623] [remoteagent] [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)

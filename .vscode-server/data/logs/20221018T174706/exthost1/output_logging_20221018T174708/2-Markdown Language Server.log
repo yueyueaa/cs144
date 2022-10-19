@@ -1,0 +1,12 @@
+[Trace 09:47:24.396] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/yueyuea/.bash_history
+[Trace 09:47:24.397] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/yueyuea/.bash_history
+[Trace 09:47:24.398] Server: connection.languages.diagnostics.on: file:///home/yueyuea/.bash_history
+[Trace 09:47:24.399] Server: connection.languages.diagnostics.on: file:///home/yueyuea/.bash_history
+[Trace 09:47:24.425] DocumentSymbolProvider: provideDocumentSymbols — file:///home/yueyuea/.bash_history 1
+[Debug 09:47:24.425] LinkProvider: compute - file:///home/yueyuea/.bash_history
+[Debug 09:47:24.532] TableOfContentsProvider: create - file:///home/yueyuea/.bash_history
+[Debug 09:47:24.618] MdFoldingProvider: provideFoldingRanges — file:///home/yueyuea/.bash_history 1
+[Trace 09:47:29.025] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/yueyuea/.bash_history
+[Trace 09:47:29.025] VsCodeClientWorkspace: deleteDocument: file:///home/yueyuea/.bash_history
+[Trace 09:57:17.345] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/yueyuea/sponge/writeups/lab1.md
+[Trace 11:21:06.181] VsCodeClientWorkspace: onDidChangeWatchedFiles: 1: file:///home/yueyuea/sponge/writeups/lab2.md

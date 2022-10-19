@@ -1,0 +1,8 @@
+[2022-10-18 16:00:51.247] [exthost] [info] Extension host with pid 148 started
+[2022-10-18 16:00:51.386] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-18 16:00:51.389] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-18 16:00:51.390] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-18 16:00:51.577] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-18 16:00:51.578] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-18 16:00:51.820] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-18 16:00:51.825] [exthost] [info] Extension host with pid 148 exiting with code 0

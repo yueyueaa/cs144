@@ -1,0 +1,21 @@
+[2022-10-18 17:47:06.927] [remoteagent] [info] Extension host agent started.
+[2022-10-18 17:47:07.260] [remoteagent] [info] [127.0.0.1][4f55f54b][ManagementConnection] New connection established.
+[2022-10-18 17:47:08.030] [remoteagent] [info] [127.0.0.1][e0b2e3a9][ExtensionHostConnection] New connection established.
+[2022-10-18 17:47:08.036] [remoteagent] [info] [127.0.0.1][e0b2e3a9][ExtensionHostConnection] <1263> Launched Extension Host Process.
+[2022-10-18 17:47:34.568] [remoteagent] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-10-18 17:47:36.058] [remoteagent] [info] Installing extension: ms-vscode.cmake-tools
+[2022-10-18 17:47:36.598] [remoteagent] [info] Getting Manifest... twxs.cmake
+[2022-10-18 17:47:36.809] [remoteagent] [info] Installing extension: twxs.cmake ms-vscode.cmake-tools
+[2022-10-18 17:47:38.379] [remoteagent] [info] Downloaded extension: twxs.cmake /home/yueyuea/.vscode-server/data/CachedExtensionVSIXs/twxs.cmake-0.0.17
+[2022-10-18 17:47:38.594] [remoteagent] [info] Extracted extension to /home/yueyuea/.vscode-server/extensions/.f5864de4-4521-41e7-8ae1-f7509b99beea: twxs.cmake
+[2022-10-18 17:47:38.604] [remoteagent] [info] Renamed to /home/yueyuea/.vscode-server/extensions/twxs.cmake-0.0.17
+[2022-10-18 17:47:38.605] [remoteagent] [info] Extracting completed. twxs.cmake
+[2022-10-18 17:47:39.694] [remoteagent] [info] Downloaded extension: ms-vscode.cmake-tools /home/yueyuea/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.12.27
+[2022-10-18 17:47:39.894] [remoteagent] [info] Extracted extension to /home/yueyuea/.vscode-server/extensions/.a10b23cf-f333-4cca-8db1-02963af8281d: ms-vscode.cmake-tools
+[2022-10-18 17:47:39.902] [remoteagent] [info] Renamed to /home/yueyuea/.vscode-server/extensions/ms-vscode.cmake-tools-1.12.27
+[2022-10-18 17:47:39.906] [remoteagent] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-10-18 17:47:39.907] [remoteagent] [info] Extension installed successfully: twxs.cmake
+[2022-10-18 17:47:39.907] [remoteagent] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-10-18 21:39:36.888] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-18 21:40:27.459] [remoteagent] [info] [127.0.0.1][4f55f54b][ManagementConnection] The client has reconnected.
+[2022-10-18 21:40:27.586] [remoteagent] [info] [127.0.0.1][e0b2e3a9][ExtensionHostConnection] The client has reconnected.

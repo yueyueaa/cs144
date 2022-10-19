@@ -1,0 +1,7 @@
+[2022-10-18 16:01:01.432] [remoteagent] [info] Extension host agent started.
+[2022-10-18 16:01:02.124] [remoteagent] [info] [127.0.0.1][d9ffbff9][ManagementConnection] New connection established.
+[2022-10-18 16:01:06.096] [remoteagent] [info] [127.0.0.1][de98b4a0][ExtensionHostConnection] New connection established.
+[2022-10-18 16:01:06.114] [remoteagent] [info] [127.0.0.1][de98b4a0][ExtensionHostConnection] <252> Launched Extension Host Process.
+[2022-10-18 16:01:13.662] [remoteagent] [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2022-10-18 16:09:04.311] [remoteagent] [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

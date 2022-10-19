@@ -1,0 +1,15 @@
+[
+  {
+    "name": "GCC 11.2.0 x86_64-linux-gnu",
+    "compilers": {
+      "C": "/usr/bin/c89-gcc"
+    }
+  },
+  {
+    "name": "GCC 8.1.0 x86_64-w64-mingw32",
+    "compilers": {
+      "C": "/mnt/d/CodeBlocks/MinGW/bin/gcc.exe",
+      "CXX": "/mnt/d/CodeBlocks/MinGW/bin/g++.exe"
+    }
+  }
+]
